@@ -36,6 +36,7 @@ The PSI mean for this sample is 1498.78, with a median of 1500.
 <BR>
 <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Del2_suspension_mean.png">
 <br>
- 
-  
+<strong>Summary by Manufacturing Lot Number</strong>
+<BR>
+<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod15_Deliv2_lot_Summary.png">
 
