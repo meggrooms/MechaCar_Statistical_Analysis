@@ -30,4 +30,12 @@ The goal is to see a 95% confidence rate in the statistics, meaning a p-value of
 
 ### Summary of Suspension Coils
 <br>
+<strong>Summary of All Lots</strong>
+<BR>
+The PSI mean for this sample is 1498.78, with a median of 1500.
+<BR>
 <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Del2_suspension_mean.png">
+<br>
+ 
+  
+
