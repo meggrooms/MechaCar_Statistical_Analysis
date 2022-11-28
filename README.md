@@ -25,7 +25,30 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 <br>
 <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv1_image.png" height=500, width=800>
   <BR>
+    
+**QUESTION: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
+<BR>
 
+  
+  
+A 95% level of confidence was predetermined, meaning a p-value of .05 level of significance to verify if statistically significant.
+<BR>
+Coefficients:
+MPG: 0 < .05, statistically significant, non-random amount of variance
+VEHICLE LENGTH: 0 < .05, statistically significant, non-random amount of variance
+VEHICLE WEIGHT: .08 > .05 not statistically significant, random amount of variance
+SPOILER ANGLE: .31 > .05 not statistically significant, random amount of variance
+GROUND CLEARANCE: 0 > .05 statistically significant, non-random amount of variance
+AWD: .19>=.05 not statistically significant, random amount of variance
+
+In summary, vehicle length and ground clearance variables represent non-random amounts of variance as applied to the mpg values.  
+  
+  
+  
+  
+  
+    
+    
 **QUESTION: Is the slope of the linear model considered to be zero? Why or why not?<BR>**
 The goal is to see a 95% confidence rate in the statistics, meaning a p-value of .05. The p-value is much lower than .05 at 5.35e-11 (0.0000000000535), meaning we have sufficient statistical reason to reject the null hypothesis, the slope of our linear model is not zero.
 <BR>
