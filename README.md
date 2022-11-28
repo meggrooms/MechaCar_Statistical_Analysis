@@ -21,13 +21,13 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 • Analyze statistics on the PSI of the suspensin coils from each manufacturing lot
 <br>
 
- #### Linear Regression Summary to Predict MPG
+#### Linear Regression Summary to Predict MPG
 <br>
 <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv1_image.png" height=500, width=800>
 The goal is to see a 95% confidence rate in the statistics, meaning a p-value of .05. The p-value is much lower than .05 at 5.35e-11 (0.0000000000535), meaning we have sufficient statistical reason to reject the null hypothesis, the slope of our linear model is not zero.
 <BR>
 <br>
-<strong>Summary Statistics on Suspension Coils</strong>
-Summary of all manufacturing lots
+
+### Summary of Suspension Coils
 <br>
 <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Del2_suspension_mean.png">
