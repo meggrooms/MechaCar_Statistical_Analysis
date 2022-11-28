@@ -8,8 +8,6 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 
 ### <strong> Metrics to be tested</strong>
 
-This statistical analysis will measue the following:
-<br>
 • Fuel efficiency per test vehicle for city & highway driving
 <BR> 
 • PSI comparison per test vehicle
@@ -17,7 +15,7 @@ This statistical analysis will measue the following:
 • Performance of each manufacturing lot
 <BR>
 <br>  
-To prepare the analysis for presentation I had to:<br>
+#### Processes used to prepare the analysis:<br>
 • A linear regression analysis was perfromed to identify which variables could predict the mpg of the prototype
 <BR>
 • Analyze statistics on the PSI of the suspensin coils from each manufacturing lot
