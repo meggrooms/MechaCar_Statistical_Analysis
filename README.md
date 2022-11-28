@@ -22,7 +22,7 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 <br>
 
  #### Linear Regression Model to Predict MPG
- <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv1_image.png" height=400, width=800>
+ <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv1_image.png" height=500, width=800>
 
   
   
