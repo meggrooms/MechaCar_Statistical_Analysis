@@ -21,7 +21,7 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 • Analyze statistics on the PSI of the suspensin coils from each manufacturing lot
 <br>
 
-#### Linear Regression Summary to Predict MPG
+## Linear Regression to Predict MPG
 <br>
 <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv1_image.png" height=500, width=800>
   <BR>
