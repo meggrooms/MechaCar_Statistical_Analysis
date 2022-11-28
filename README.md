@@ -8,4 +8,9 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 
 ### <strong> Metrics to be tested</stong>
 <br>
- 
+This statistical analysis will measue the following:
+• Fuel efficiency per test vehicle for city & highway driving
+<BR> 
+• PSI comparison per test vehicle
+<br>
+• Performance of each manufacturing lot
