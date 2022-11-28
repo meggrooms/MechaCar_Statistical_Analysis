@@ -20,9 +20,9 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 <BR>
 • Analyze statistics on the PSI of the suspensin coils from each manufacturing lot
 <br>
-• Perform t-tests to compare the manufacturing lots against the mean population to determine if the lots are statistically different.
-<BR> 
 
+ #### Linear Regression Model
+ 
   
 
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you'll write a summary interpretation of the findings
