@@ -21,12 +21,9 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 • Analyze statistics on the PSI of the suspensin coils from each manufacturing lot
 <br>
 
- #### Linear Regression Model
- 
-  
+ #### Linear Regression Model to Predict MPG
+ <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv1_image.png" height=400, width=800>
 
-Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you'll write a summary interpretation of the findings
-  
   
   
   
