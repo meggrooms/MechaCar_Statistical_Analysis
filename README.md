@@ -23,9 +23,6 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 
  #### Linear Regression Model to Predict MPG
 <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv1_image.png" height=500, width=800>
-The goal is to see a 95% confidence rate in the statistics, meaning a p-value of 0.05.   
-  
+The goal is to see a 95% confidence rate in the statistics, meaning a p-value of .05. The p-value is much lower than .05 at 5.35e-11 (0.0000000000535), meaning we have sufficient statistical reason to reject the null hypothesis, the slope of our linear model is not zero.
   
 
- 
-The slope of the linear model is not zero, according to the statistical summary results. Assuming we have a confidence level of 95%, the p-value is far below the corresponding .05 significance level and, therefore, we have sufficient statistical reasoning to reject the null hypothesis that the slope is zero
