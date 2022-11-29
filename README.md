@@ -76,22 +76,40 @@ Design specification, per MechaCar, is that the PSI shall have a mean of 1,500 p
 <BR>
   <strong>Summary of t-test Results</strong>
 <BR><BR>
-  <strong>All Manufacturing Lots:</strong>
- <BR><BR>
-t-test 1 (Population = Expected Mean)
-<BR> 
-<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Screenshot%202022-11-28%20at%205.03.38%20PM.png">
-<BR><BR>
-t-test 2 (Lot 1)
-<br>
-<IMG SRC="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Del4_lot%202.png">
-  
   
 
+<strong>All Manufacturing Lots t-test:</strong>
+ <BR>
+p-value of 0.06028<BR>
+<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/0001.png">
+   <BR>
+     
+     
+<strong>Lot 1</strong>
+     <BR>
+p-value = 1 (no difference aside from chance)
+<BR>       
+<img src ="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot1.png">
 <BR>
-t-test 3 (lot 2)
+       
+      
+t-test lot 2 (p-value is not statistically different)
+<BR> 
+<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot2.png">
+<BR><BR>
+
+t-test lot 3 (statistically different)
+<br>
+<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot3.png">                                                                                             
+                                                                                                      
+                                                                                                      
+<br>
+<IMG SRC="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Del4_lot%202.png">
 <BR>
-  
+t-test 3 (lot 2, p-value = 0.6072 - no statistical difference)
+<BR>
+<BR>
+t-test 4 (lot 4, p-value
 
 
  
