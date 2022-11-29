@@ -89,18 +89,18 @@ p-value of 0.06028<BR>
      <BR>
 p-value = 1 (no difference aside from chance)
 <BR>       
-<img src ="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot1.png">
+<img src ="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot1.png" width = 400 height = 200>
 <BR>
        
       
 t-test lot 2 (p-value is not statistically different)
 <BR> 
-<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot2.png">
+<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot2.png" width = 400 height = 200>
 <BR>
   
 t-test lot 3 (statistically different)
 <br>
-<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot3.png">                                                   <BR>                                          
+<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot3.png" width = 400 height = 200>                                                   <BR>                                          
 <br>
 
 ## Study Design: MechaCar vs Competition
