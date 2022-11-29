@@ -111,7 +111,7 @@ t-test lot 3 (statistically different)
 When comparing MechaCar to competitors I asked myself what metrics I would consider useful when car shopping. These are:
 <BR>
   
-• Safety ratings<BR>
+**• Safety ratings**<BR>
 In order to compare safety ratings I would use <a href="https://www.nhtsa.gov/nhtsa-datasets-and-apis">information provided by NHSTA</a>, comparing cars of similar size, weight, and class to MechaCar's stats. To do this I would complete a one-way ANOVA test to compare multiple vehicles.
 <BR>
 Null Hypothesis: The safety rating means of all vehicles in this class are equal.
@@ -120,7 +120,7 @@ Alternative Hypothesis: At least one of the vehicles in this class has a differe
 <BR>
 <BR>
     
-• Maintenance cost
+**• Maintenance cost**
 <br>
 Relying on information provided by <a href="https://developer.edmunds.com/api-documentation/vehicle/service_maintenance/v1/">Edmund's</a>,
 I would run a t-test to compare vehicles in the same class to predict the maintenance costs.
