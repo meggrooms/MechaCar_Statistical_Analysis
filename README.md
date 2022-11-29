@@ -96,20 +96,12 @@ p-value = 1 (no difference aside from chance)
 t-test lot 2 (p-value is not statistically different)
 <BR> 
 <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot2.png">
-<BR><BR>
-
+<BR>
+  
 t-test lot 3 (statistically different)
 <br>
-<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot3.png">                                                                                             
+<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/t-test_lot3.png">                                                   <BR>                                          
                                                                                                       
-                                                                                                      
-<br>
-<IMG SRC="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Del4_lot%202.png">
-<BR>
-t-test 3 (lot 2, p-value = 0.6072 - no statistical difference)
-<BR>
-<BR>
-t-test 4 (lot 4, p-value
 
 
  
