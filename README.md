@@ -30,7 +30,6 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
 <BR>
 
   
-  
 With a predetermined level of confidences of 95%, a p-value of .05 incidcates that the results are statistically significant.<BR>
 A p-value of > .05 indicated that the results are not statistially significant, the null hypothesis is not rejected.
 <BR>
@@ -54,6 +53,10 @@ AWD: .19>=.05 not statistically significant, random amount of variance
 The goal is to see a 95% confidence rate in the statistics, meaning a p-value of .05. The p-value is much lower than .05 at 5.35e-11 (0.0000000000535), meaning we have sufficient statistical reason to reject the null hypothesis, the slope of our linear model is not zero.
 <BR>
 <br>
+  
+**QUESTION: Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
+Using the linear regressing model, we see that r-squared is 0.7149, meaning 71.49% of the variability observed is explained by the regression model. The r-squared value predicts that the linear model does predict the mpg of the MechaCar prototypes.
+
 
 ### Summary of Suspension Coils
 <br>
