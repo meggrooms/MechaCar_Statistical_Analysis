@@ -72,13 +72,13 @@ Design specification, per MechaCar, is that the PSI shall have a mean of 1,500 p
 <BR>
 ## T-Tests on Suspension Coils
 <BR>
-<img src = "https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv3_code.png" height=900, width=1000>
+<img src = "https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv3_code.png" width=1000 height = 1000>
 <BR>
   <strong>Summary of t-test Results</strong>
 <BR><BR>
   <strong>All Manufacturing Lots:</strong>
  <BR><BR>
- <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Screenshot%202022-11-28%20at%205.03.38%20PM.png">  
+ <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Screenshot%202022-11-28%20at%205.03.38%20PM.png">
  
   
 
