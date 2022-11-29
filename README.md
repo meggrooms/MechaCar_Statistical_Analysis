@@ -78,8 +78,19 @@ Design specification, per MechaCar, is that the PSI shall have a mean of 1,500 p
 <BR><BR>
   <strong>All Manufacturing Lots:</strong>
  <BR><BR>
- <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Screenshot%202022-11-28%20at%205.03.38%20PM.png">
- 
+t-test 1 (Population = Expected Mean)
+<BR> 
+<img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Screenshot%202022-11-28%20at%205.03.38%20PM.png">
+<BR><BR>
+t-test 2 (Lot 1)
+<br>
+<IMG SRC="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Del4_lot%202.png">
+  
+  
+
+<BR>
+t-test 3 (lot 2)
+<BR>
   
 
 
