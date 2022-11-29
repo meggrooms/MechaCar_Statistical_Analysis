@@ -75,9 +75,12 @@ Design specification, per MechaCar, is that the PSI shall have a mean of 1,500 p
 <img src = "https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv3_code.png" height=900, width=1000>
 <BR>
   <strong>Summary of t-test Results</strong>
-<BR>
-
-**QUESTION: Are all manufacturing lots (as a whole) statistically different than a population mean of 1,500 pounds per square inch? What about each lot individually?**
+<BR><BR>
+  <strong>All Manufacturing Lots:</strong>
+ <BR><BR>
+ <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Screenshot%202022-11-28%20at%205.03.38%20PM.png">  
+ 
+  
 
 
  
