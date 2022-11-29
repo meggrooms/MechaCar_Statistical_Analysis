@@ -62,4 +62,15 @@ The PSI mean for this sample is 1498.78, with a median of 1500.
 <strong>Summary by Manufacturing Lot Number</strong>
 <BR>
 <img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod15_Deliv2_lot_Summary.png">
+<BR><BR>
+  
+**Design Specification Requirements**
+  <BR>
+  
+Design specification, per MechaCar, is that the PSI shall have a mean of 1,500 pounds per square inch.
+<BR>
+<img src = "https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/Mod_15_deliv3_code.png" height=900, width=1000>
 
+    
+    Per MechaCar, the PSI has a mean of 1,500 pounds per square inch. As you can see in the results below, when comparing the population to the MechaCar stated PSI mean, there is not enough evidence to reject the null hypothesis. Therefore, it can be concluded that the data matches MechaCar’s claims.
+  
