@@ -27,8 +27,9 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
   <BR>
     
 **QUESTION: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
+<BR>
+  
 
-<BR><BR>
 **Coefficients:**
 <BR>
 MPG: 0 < .05, statistically significant, non-random amount of variance
