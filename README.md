@@ -32,8 +32,8 @@ Plagued by production issues, AutosRUs needs to determine the problems with manu
   
 With a predetermined level of confidences of 95%, a p-value of .05 incidcates that the results are statistically significant.<BR>
 A p-value of > .05 indicated that the results are not statistially significant, the null hypothesis is not rejected.
-<BR>
-Coefficients:
+<BR><BR>
+**Coefficients:**
 MPG: 0 < .05, statistically significant, non-random amount of variance
 <BR>
 VEHICLE LENGTH: 0 < .05, statistically significant, non-random amount of variance
