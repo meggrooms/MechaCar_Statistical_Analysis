@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/meggrooms/MechaCar_Statistical_Analysis/blob/main/images/mechacar.png" width=900 height=300></p>
+
 # MechaCar Statistical Analysis
 ### <strong>Project Overview:</strong>
 <BR>
